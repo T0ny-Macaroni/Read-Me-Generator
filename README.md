@@ -1,31 +1,26 @@
-# test
-        ##description 
-        test
-        # Table of Contents
-        1. [description](##description)
-        2. [installation](##installation)
-        3.[usage](##usage)
-        4.[credit](##credit)
-        5.[test](##test)
-        6.[license](##license)
-        7. [questions](##questions)
-    
+# Read-Me-Generator
 
-        ##installation
-        test
+## Description
+This project was created to help streamline the process of making a professional README for projects, its backend operated so all input will be in the console, it will generate a complete README for the user based on choices made.
 
-        ##usage
-        test
+## Installation
+To install this project, clone the repository and install the required packages
+```bash
+npm install
+```
+## Usage
+![screenshot](./Images/Screenshot_28.png)
+![demo](./Images/Untitled%20design.gif)
+ 
+Navigate into the cloned directory and run the application using Node.js
+```bash
+node index.js
+```
+The application will ask for your input on details, once answered a README will be generated with your responses
 
-        ##Test Instructions
-        to test project run test in your terminal
+## License 
+Project is licensed under MIT
 
-        ##Credit
-        Shout out to test
+## Contributions
+N/A
 
-        ##Questions
-        for any questions or concerns you may contact me at my GitHub, test or by email at test
-
-        ##license
-        licensed under MIT
-    
